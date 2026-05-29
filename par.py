@@ -1,3 +1,4 @@
+# 5. Crie função que verifique número par ou ímpar.
 def par (a):
     if a%2 == 0:
         return f'{a} é par'

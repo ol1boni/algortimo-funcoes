@@ -1,3 +1,4 @@
+# 2. Crie função que receba número e retorne dobro
 def dobro (x):
     return x *2
 

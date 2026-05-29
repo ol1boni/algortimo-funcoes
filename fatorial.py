@@ -1,3 +1,4 @@
+# 6. Crie função que calcule fatorial
 def fatorial(n):
     resultado = 1
     for i in range(1, n + 1):

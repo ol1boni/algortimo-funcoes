@@ -1,3 +1,4 @@
+# 4. Crie função que calcule média de três valores.
 def media (a,b,c):
     return (a + b + c) /3
 n1 = float(input('Digite o primero número: '))
