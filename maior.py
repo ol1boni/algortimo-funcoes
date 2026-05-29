@@ -4,8 +4,8 @@ def maior(a,b):
         return a
     else:
         return b
-n1 = int(input('Digite o primeiro número: '))
-n2 = int(input('Digite o segundo número: '))
+n1 = float(input('Digite o primeiro número: '))
+n2 = float(input('Digite o segundo número: '))
 
 resultado = maior (n1,n2)
 print (f'O maior número digitado foi: {resultado}!')
